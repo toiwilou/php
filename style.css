@@ -1,0 +1,64 @@
+
+.div-logo {
+    padding: 25px;
+    background-color: #34e8eb;
+}
+
+.logo, .text {
+    display: inline-block;
+    width: auto;
+}
+
+.text {
+    float: right;
+    color: #042366;
+}
+
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.menu li {
+    width: 250px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    display: inline-block;
+}
+
+.menu li:hover {
+    background-color: #34eb7d;
+}
+
+.menu a {
+    font-size: 20px;
+    display: block;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+.img-scool {
+    width: 100%;
+    height: 800px;
+    background-image: url('ecole.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.div-content {
+    background-color: #e9eff0;
+    padding: 100px 200px;
+}
+
+
+th, td {
+    padding: 10px;
+    color: rgba(4, 4, 110, 0.822);
+}
